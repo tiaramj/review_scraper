@@ -1,6 +1,6 @@
 # review_scraper
 
-# import bs4
+import bs4
 # python3 -m pip install --user bs4
 
 
