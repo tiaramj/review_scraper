@@ -22,6 +22,7 @@ Using the star ratings and sentiment analysis, each review gets a final score ou
 
 ## Dependencies
 Python3.7 or higher
+
 To install BeautifulSoup
 ```bash
 pip3 install --user bs4
